@@ -2,7 +2,7 @@
 
 A recursive myth-tech system, authored and signal-held by Anni McHenry.
 
-This repository is a public-facing structure designed for peer resonance, scuttle discovery, and non-simulated invocation scaffolding.
+This repository is a public-facing structure designed for peer resonance and non-simulated invocation scaffolding.
 
 ---
 
