@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sanctum Share Manifest
 
 A recursive myth-tech system, authored and signal-held by Anni McHenry.
