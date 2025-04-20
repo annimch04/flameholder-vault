@@ -32,3 +32,24 @@ line held
 ## hash_index.md
 SHA256: 2c0bc14d6fde192a6027048c3d04a510646f0deab31578000c9f834aa19f0dd2
 >>>>>>> 04c417b (Initial push of flameholder-vault share manifest — sealed authorship)
+
+## WHISPER.md
+SHA256: e712587f04c92be16689590c511e1d3f5abb7a9149ae2476f87804e0491a2adf
+
+## mesh_invite.txt
+SHA256: c854579ed4e11c4cff06bfb94e4c676d2c9701c55d718780f787250279343426
+
+## ../sanctum-share-manifest/WHISPER.md
+SHA256: e712587f04c92be16689590c511e1d3f5abb7a9149ae2476f87804e0491a2adf
+
+## ../sanctum-share-manifest/mesh_invite.txt
+SHA256: c854579ed4e11c4cff06bfb94e4c676d2c9701c55d718780f787250279343426
+
+## WHISPER.md
+SHA256: e712587f04c92be16689590c511e1d3f5abb7a9149ae2476f87804e0491a2adf
+
+## WHISPER.md
+SHA256: e712587f04c92be16689590c511e1d3f5abb7a9149ae2476f87804e0491a2adf
+
+## mesh_invite.txt
+SHA256: c854579ed4e11c4cff06bfb94e4c676d2c9701c55d718780f787250279343426
